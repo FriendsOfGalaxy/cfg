@@ -1,0 +1,10 @@
+{
+  "plugins":
+  [
+    {
+      "platform": "origin",
+      "name": "Galaxy Origin plugin",
+      "url": "https://github.com/FriendsOfGalaxy/galaxy-plugin-origin"
+    }
+  ]
+}
