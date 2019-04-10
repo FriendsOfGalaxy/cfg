@@ -3,6 +3,7 @@
   [
     {
       "platform": "origin",
+      "guid": "7f53219b-4e2b-4591-9f4f-dfc5f4ba9eb0",
       "name": "Galaxy Origin plugin",
       "url": "https://github.com/FriendsOfGalaxy/galaxy-plugin-origin"
     }
