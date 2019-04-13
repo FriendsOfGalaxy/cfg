@@ -7,11 +7,11 @@
       "name": "Galaxy Origin plugin",
       "url": "https://github.com/FriendsOfGalaxy/galaxy-plugin-origin"
     },
-		{
+    {
       "platform": "steam",
-		  "guid": "ca27391f-2675-49b1-92c0-896d43afa4f8",
-		  "name": "Galaxy Steam plugin",
-		  "url": "https://github.com/FriendsOfGalaxy/galaxy-plugin-steam"
-		}
+        "guid": "ca27391f-2675-49b1-92c0-896d43afa4f8",
+        "name": "Galaxy Steam plugin",
+        "url": "https://github.com/FriendsOfGalaxy/galaxy-plugin-steam"
+    }
   ]
 }
