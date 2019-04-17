@@ -9,9 +9,27 @@
     },
     {
       "platform": "steam",
-        "guid": "ca27391f-2675-49b1-92c0-896d43afa4f8",
-        "name": "Galaxy Steam plugin",
-        "url": "https://github.com/FriendsOfGalaxy/galaxy-plugin-steam"
-    }
+      "guid": "ca27391f-2675-49b1-92c0-896d43afa4f8",
+      "name": "Galaxy Steam plugin",
+      "url": "https://github.com/FriendsOfGalaxy/galaxy-plugin-steam"
+    },
+    {
+      "platform": "psn",
+      "guid": "38087aea-3c30-439f-867d-ddf9fae8fe6f",
+      "name": "Galaxy PSN plugin",
+      "url": "https://github.com/FriendsOfGalaxy/galaxy-plugin-psn"
+    },
+    {
+      "platform": "battlenet",
+      "guid": "ba170431-0649-482f-863b-d248592f1842",
+      "name": "Galaxy Battle.net plugin",
+      "url": "https://github.com/FriendsOfGalaxy/galaxy-plugin-battlenet"
+    },
+    {
+      "platform": "uplay",
+      "guid": "afb5a69c-b2ee-4d58-b916-f4cd75d4999a",
+      "name": "Galaxy Uplay plugin",
+      "url": "https://github.com/FriendsOfGalaxy/galaxy-plugin-uplay"
+    }    
   ]
 }
