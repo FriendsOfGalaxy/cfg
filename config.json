@@ -5,7 +5,7 @@
       "platform": "origin",
       "guid": "7f53219b-4e2b-4591-9f4f-dfc5f4ba9eb0",
       "name": "Galaxy plugin Origin",
-      "url": "https://github.com/FriendsOfGalaxy/galaxy-plugin-origin",
+      "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-origin",
       "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-origin/master/current_version.json",
       "popular": true
     },
@@ -13,7 +13,7 @@
       "platform": "steam",
       "guid": "ca27391f-2675-49b1-92c0-896d43afa4f8",
       "name": "Galaxy plugin Steam",
-      "url": "https://github.com/FriendsOfGalaxy/galaxy-plugin-steam",
+      "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-steam",
       "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-steam/master/current_version.json",
       "popular": true
     },
@@ -21,7 +21,7 @@
       "platform": "psn",
       "guid": "38087aea-3c30-439f-867d-ddf9fae8fe6f",
       "name": "Galaxy plugin PSN",
-      "url": "https://github.com/FriendsOfGalaxy/galaxy-plugin-psn",
+      "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-psn",
       "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-psn/master/current_version.json",
       "popular": true
     },
@@ -29,25 +29,33 @@
       "platform": "uplay",
       "guid": "afb5a69c-b2ee-4d58-b916-f4cd75d4999a",
       "name": "Galaxy plugin Uplay",
-      "url": "https://github.com/FriendsOfGalaxy/galaxy-plugin-uplay",
-      "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-origin/master/current_version.json",
+      "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-uplay",
+      "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-uplay/master/current_version.json",
       "popular": true
     },
     {
       "platform": "epic",
       "guid": "24d5f405-7211-4198-83c4-50a6f63b1dcf",
       "name": "Galaxy plugin Epic",
-      "url": "https://github.com/FriendsOfGalaxy/galaxy-plugin-uplay",
-      "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-origin/master/current_version.json",
+      "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-epic",
+      "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-epic/master/current_version.json",
       "popular": true
     },
     {
       "platform": "battlenet",
       "guid": "ba170431-0649-482f-863b-d248592f1842",
       "name": "Galaxy plugin Battle.net",
-      "url": "https://github.com/FriendsOfGalaxy/galaxy-plugin-battlenet",
-      "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-origin/master/current_version.json",
+      "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-battlenet",
+      "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-battlenet/master/current_version.json",
       "popular": false
     },
+    {
+      "platform": "bethesda",
+      "guid": "cb57391f-1675-35b1-05c0-896d43bdf4f8",
+      "name": "Galaxy plugin Bethesda",
+      "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-bethesda",
+      "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-bethesda/master/current_version.json",
+      "popular": false
+    }
   ]
 }
