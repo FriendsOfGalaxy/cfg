@@ -64,6 +64,22 @@
       "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-paradox",
       "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-paradox/master/current_version.json",
       "popular": false
+    },
+    {
+      "platform": "gw2",
+      "guid": "637b1fd4-b1d0-4de8-9bf6-757e639807f3",
+      "name": "Galaxy plugin Guild Wars 2",
+      "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-gw2",
+      "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-gw2/master/current_version.json",
+      "popular": false
+    },
+    {
+      "platform": "humble",
+      "guid": "f0ca3d80-a432-4d35-a9e3-60f27161ac3a",
+      "name": "Galaxy plugin Humble Bundle",
+      "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-humble",
+      "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-humble/master/current_version.json",
+      "popular": false
     }
   ]
 }
