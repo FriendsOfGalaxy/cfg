@@ -80,6 +80,14 @@
       "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-humble",
       "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-humble/master/current_version.json",
       "popular": false
+    },
+    {
+      "platform": "minecraft",
+      "guid": "cb57391f-1675-35b1-05c0-896d43bdf8f4",
+      "name": "Galaxy plugin Minecraft",
+      "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-minecraft",
+      "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-minecraft/master/current_version.json",
+      "popular": false
     }
   ]
 }
