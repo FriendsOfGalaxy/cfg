@@ -42,14 +42,6 @@
       "popular": true
     },
     {
-      "platform": "battlenet",
-      "guid": "ba170431-0649-482f-863b-d248592f1842",
-      "name": "Galaxy plugin Battle.net",
-      "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-battlenet",
-      "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-battlenet/master/current_version.json",
-      "popular": false
-    },
-    {
       "platform": "bethesda",
       "guid": "cb57391f-1675-35b1-05c0-896d43bdf4f8",
       "name": "Galaxy plugin Bethesda",
