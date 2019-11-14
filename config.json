@@ -96,6 +96,14 @@
       "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-wargaming",
       "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-wargaming/master/current_version.json",
       "popular": false
+    },
+    {
+      "platform": "rockstar",
+      "guid": "774732b5-69c4-405c-b6c9-92cd55740cfe",
+      "name": "Galaxy plugin Rockstar",
+      "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-rockstar",
+      "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-rockstar/master/current_version.json",
+      "popular": false
     }
   ]
 }
