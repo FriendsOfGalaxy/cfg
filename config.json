@@ -104,6 +104,14 @@
       "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-rockstar",
       "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-rockstar/master/current_version.json",
       "popular": false
+    },
+    {
+      "platform": "battlenet",
+      "guid": "ba170431-0649-482f-863b-d248592f1842",
+      "name": "Galaxy plugin Battle.net",
+      "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-blizzard",
+      "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-blizzard/master/current_version.json",
+      "popular": false
     }
   ]
 }
