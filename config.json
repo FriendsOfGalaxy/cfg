@@ -112,6 +112,14 @@
       "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-blizzard",
       "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-blizzard/master/current_version.json",
       "popular": false
+    },
+    {
+      "platform": "ffxiv",
+      "guid": "0a9eb0eb-812a-45a1-bc40-c1cd82195313",
+      "name": "Galaxy plugin FFXIV",
+      "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-ffxiv",
+      "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-ffxiv/master/current_version.json",
+      "popular": false
     }
   ]
 }
