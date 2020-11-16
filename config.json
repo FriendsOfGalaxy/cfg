@@ -34,14 +34,6 @@
       "popular": true
     },
     {
-      "platform": "epic",
-      "guid": "24d5f405-7211-4198-83c4-50a6f63b1dcf",
-      "name": "Galaxy plugin Epic",
-      "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-epic",
-      "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-epic/master/current_version.json",
-      "popular": true
-    },
-    {
       "platform": "bethesda",
       "guid": "cb57391f-1675-35b1-05c0-896d43bdf4f8",
       "name": "Galaxy plugin Bethesda",
