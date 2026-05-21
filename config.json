@@ -1,5 +1,13 @@
 {
   "plugins":
   [
+    {
+      "platform": "steam",
+      "guid": "ca27391f-2675-49b1-92c0-896d43afa4f8",
+      "name": "Galaxy plugin Steam",
+      "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-steam/tree/galaxy-2.1",
+      "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-steam/galaxy-2.1/current_version.json",
+      "popular": true
+    }
   ]
 }
