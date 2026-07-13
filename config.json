@@ -8,6 +8,14 @@
       "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-steam/tree/galaxy-2.1",
       "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-steam/galaxy-2.1/current_version.json",
       "popular": true
+    },
+    {
+	    "name": "Galaxy PSN plugin",
+      "platform": "psn",
+      "guid": "38087aea-3c30-439f-867d-ddf9fae8fe6f",
+      "url": "https://github.com/FriendsOfGalaxy/galaxy-integration-psn/tree/galaxy-2.1",
+      "update_url": "https://raw.githubusercontent.com/FriendsOfGalaxy/galaxy-integration-psn/refs/heads/galaxy-2.1/current_version.json",
+      "popular": true
     }
   ]
 }
